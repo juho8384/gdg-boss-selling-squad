@@ -6,7 +6,7 @@ import com.gdg.boss.R
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
-class XmlMainActivity : AppCompatActivity() {
+class RwhXmlMainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
