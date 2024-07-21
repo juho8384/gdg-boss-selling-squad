@@ -12,7 +12,7 @@ class ComposeMainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            Text("Hello World!")
+            Text("Hello World!2")
         }
     }
 }
